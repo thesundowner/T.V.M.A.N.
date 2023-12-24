@@ -49,5 +49,5 @@ def bsod():
 TMP = f'{os.path.expanduser("~")}\\AppData\\Local\\Temp\\'  # Temp Directory
 
 
-TOKEN: str # put token from botfather here
+TOKEN: str # put token from botfather
 CHATID: int # put the chatid here
